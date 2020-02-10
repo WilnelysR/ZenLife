@@ -1,23 +1,8 @@
-# Python Skeleton
+# ZenLife
 
-This is a basic project skeleton to help kick-start a variety of Python projects. It's inspired by [The Hitchhiker's Guide To Python](https://docs.python-guide.org/writing/structure/) and [Real Python's application layout reference](https://realpython.com/python-application-layouts/).
-
-
-## Usage
-
-Clone this repo to your computer so you can keep getting updates to it. Then copy the whole folder whenever you start a new project. Change all the names to reflect your new project, run the tests to make sure everything works, and then start developing whatever you want!
-
-```bash
-$ git clone git@github.com:ts-cset/python-skeleton.git
-$ cp -r python-skeleton <your-project>
-$ cd <your-project>
-$ rm -rf .git/
-$ git init
-```
-
-*Don't forget to reinitialize git for your new project repo!*
-
-Use grep to find all instances of the name `yourproject` in all the files and change them your project's name. Then add your contact info to `setup.py`.
+Zenlife is an easy to use app that helps you learn
+the basics of meditation and how to put a little
+Zen in your life.
 
 
 ## Installation
@@ -32,4 +17,3 @@ You can run the tests with the `pytest` command. You can learn more about this c
 If you would like to see changes to this project skeleton, start a conversation as an Issue to discuss your plans.
 
 Pull Requests are always welcome!
-

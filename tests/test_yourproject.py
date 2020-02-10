@@ -1,4 +1,4 @@
-import yourproject
+import ZenLife
 
 def test_import():
-    assert yourproject
+    assert ZenLife
